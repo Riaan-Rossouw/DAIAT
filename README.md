@@ -1,17 +1,19 @@
 # DAIAT - Agriculture Growth Cycle and Trade Dataset
-The Data and Artificial Intelligence for African Trade Initiative [https://www.ucc.ie/en/daiat/] is a consortium of European and African-based scholars and practitioners who focus their research, teaching and policy making to develop and promote data-driven decision-making tools for the expansion of inclusive and sustainable trade between the continents.
+The Data and Artificial Intelligence for African Trade (DAIAT) Initiative [https://www.ucc.ie/en/daiat/] is a consortium of European and African-based scholars and practitioners who focus their research, teaching and policy making to develop and promote data-driven decision-making tools for the expansion of inclusive and sustainable trade between the continents.
+
+This repository contains the working files for the "Agriculture Growth Cycle and Trade" database, which forms part of Work Program 1 of the DAIAT Initiative.
 
 ## Work program 1: Identification of export opportunities
-This work prorgram is motivated by the need for the expansion of African countries' exports at the extensive margin.
+This work program is motivated by the need to expand African countries' exports at the extensive margin.
 
-During this work program a decision-support model for export opportunity identification  will be developed for Ethiopia, Kenya, Nigeria, Burkina Faso,  and Tanzania. These are five countries that have seen relatively fast growth in industrialization since 2010 and which may need access to expanded markets to continue to raise productivity growth. 
+A decision-support model for export opportunity identification will be developed during this work program for Ethiopia, Kenya, Nigeria, Burkina Faso,  and Tanzania. These five countries have seen relatively fast growth in industrialization since 2010 and may need access to expanded markets to continue to raise productivity growth. 
 
-For each of the five countries the detailed opportunities to export to Ireland, and for Ireland to export to these countries, will be identified, using advanced data analytics. Such mutual opportunity identification will support the engagement of Ireland with these countries based on a mutual advantageous expansion of trade. It will also generate a template for expanding to other EU countries in future.
+For each of the five countries, the detailed opportunities to export to Ireland and for Ireland to export to these countries will be identified using advanced data analytics. Such mutual opportunity identification will support the engagement of Ireland with these countries based on an advantageous mutual expansion of trade. It will also generate a template for expanding to other EU countries.
 
-The second aim of this work program would be to consider the availability of export data per region, firm - i.e., decentralized export data in Africa. Most government (e.g., through the tax revenue departments) have access to this data but tend not to make this available. This may impose an information cost / gap on trade.
+The second aim of this work program would be to consider the availability of export data per region and firm - i.e., decentralized export data in Africa. Most governments (e.g., through the tax revenue departments) have access to this data but tend not to make this available. This may impose an information cost/gap on trade.
 
 ### Methodology
-This section will be divided into two sections. The first section will address the Data used and its sources, and the second section will be based on the methods used to exploit that data in an analysis to obtain the desired relationship between quantities of interest.
+This section will be divided into two sections. The first section will address the data used and its sources. The second section will be based on the methods used to consolidate, clean and construct the final database.
 
 #### 1. Clone this repository
 
@@ -24,3 +26,5 @@ Note - To be completed.
 
 #### 3. Data consolidation, clean-up and database construction 
 Note - To be completed.
+
+(Last updated on 2022-08-01)
