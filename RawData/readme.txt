@@ -1,5 +1,11 @@
 DATA SOURCES:
 
+Agricultural Variables (FAOSTAT)
+Source: http://www.fao.org/faostat/en/#data/QC
+Data: Area Harvested, Yield, Production Quantity (Period: 1961-2020)
+Production_Crops_E_All_Data.csv
+Units: Area Harvested: Hectares, Yield: Hectogramme/Hectare, Production Quantity: Tonnes 
+
 Capital Stock Data (Penn)...
 Source: https://www.rug.nl/ggdc/productivity/pwt/?lang=en - Aug 4, 2022
 Data: 'cn' = capital stocks
