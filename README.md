@@ -21,10 +21,23 @@ This section will be divided into two sections. The first section will address t
 git clone git@github.com:Riaan-Rossouw/DAIAT.git
 ```
 
-#### 2. Data used and sources
+#### 2. Description of repositry files and folder
+
+FOLDERS
+'archive': old files that are not used in current analysis
+'cleandata': all input data, saved in cleaned form
+'figures': Montly trade figures, to identify potential seasonality in trade
+'literature': Articles used to identify key variables
+'rawdata': all input data, saved in raw form
+'results': all results from scripts, intermittent and final data
+
+SCRIPTS
 To be completed.
 
-#### 3. Data consolidation, clean-up and database construction 
+#### 3. Data used and sources
+To be completed.
+
+#### 4. Data consolidation, clean-up and database construction 
 To be completed.
 
 (Last updated on 2022-08-04)
