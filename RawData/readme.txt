@@ -22,6 +22,10 @@ Metadata: http://www.cepii.fr/PDF_PUB/wp/2011/wp2011-25.pdf
 geo_cepii.xls: 'area': area (sq. km), 'landlocked': landlocked dummy
 dist_cepii.xls: 'dist': distance (km), 'contig': border dummy
 
+Northern-Southern Hemisphere Countries (GeoDataSource)
+Source: https://www.geodatasource.com/download
+Data: List of countries by northern and southern hemisphere
+
 Population Data (UNPD)
 Source: https://population.un.org/wpp/Download/Standard/Population/ - Aug 4, 2022
 Data & units: 
