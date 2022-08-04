@@ -24,7 +24,9 @@ git clone git@github.com:Riaan-Rossouw/DAIAT.git
 #### 2. Description of repositry files and folder
 
 FOLDERS
+```
 'archive': old files that are not used in current analysis
+```
 'cleandata': all input data, saved in cleaned form
 'figures': Montly trade figures, to identify potential seasonality in trade
 'literature': Articles used to identify key variables
