@@ -1,7 +1,7 @@
 # DAIAT - Agriculture Growth Cycle and Trade Dataset
 The Data and Artificial Intelligence for African Trade (DAIAT) Initiative [https://www.ucc.ie/en/daiat/] is a consortium of European and African-based scholars and practitioners who focus their research, teaching and policy making to develop and promote data-driven decision-making tools for the expansion of inclusive and sustainable trade between the continents.
 
-This repository contains the working files for the "Agriculture Growth Cycle and Trade" database, which forms part of Work Program 1 of the DAIAT Initiative.
+This repository contains the working files and all codes used to generate the "Agriculture Growth Cycle and Trade" database, which forms part of Work Program 1 of the DAIAT Initiative.
 
 ## Work program 1: Identification of export opportunities
 This work program is motivated by the need to expand African countries' exports at the extensive margin.
@@ -12,8 +12,8 @@ For each of the five countries, the detailed opportunities to export to Ireland 
 
 The second aim of this work program would be to consider the availability of export data per region and firm - i.e., decentralized export data in Africa. Most governments (e.g., through the tax revenue departments) have access to this data but tend not to make this available. This may impose an information cost/gap on trade.
 
-### Methodology
-This section will be divided into two sections. The first section will address the data used and its sources. The second section will be based on the methods used to consolidate, clean and construct the final database.
+### How this repository works
+This section first addresses the data used and its sources, and second, provides the method and approach used to consolidate, clean and construct the final database.
 
 #### 1. Clone this repository
 
@@ -23,18 +23,16 @@ git clone git@github.com:Riaan-Rossouw/DAIAT.git
 
 #### 2. Description of repositry files and folder
 
-```bash
 FOLDERS
-'Archive': Old files that are not used in current database construction
-'CleanData': All input data, saved in cleaned format
-'FinalDatabase': All results from scripts, intermittent and final database
-'Literature': Articles used to identify key variables of interest
-'RawData': all input data, saved in raw form
-'SeasonalityCharts': Montly africulture trade figures, to identify potential seasonality in trade
+* 'Archive': Old files that are not used in current database construction
+* 'CleanData': All input data, saved in cleaned format
+* 'FinalDatabase': All results from scripts, intermittent and final database
+* 'Literature': Articles used to identify key variables of interest
+* 'RawData': all input data, saved in raw form
+* 'SeasonalityCharts': Montly africulture trade figures, to identify potential seasonality in trade
 
 SCRIPTS
-To be completed.
-```
+* To be completed.
 
 #### 3. Data used and sources
 To be completed.
