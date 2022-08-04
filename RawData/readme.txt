@@ -3,7 +3,7 @@
 Geographic Variables (CEPII)... 
 Source: http://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele_item.asp?id=6 - Aug 3, 2022
 Metadata: http://www.cepii.fr/PDF_PUB/wp/2011/wp2011-25.pdf
-geo_cepii.xls: 'area': area (SqKm), 'landlocked': landlocked dummy
-dist_cepii.xls: 'dist': distance (km???), 'contig': border dummy
+geo_cepii.xls: 'area': area (sq. km), 'landlocked': landlocked dummy
+dist_cepii.xls: 'dist': distance (km), 'contig': border dummy
 
 ...
