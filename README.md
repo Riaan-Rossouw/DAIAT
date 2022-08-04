@@ -23,6 +23,7 @@ git clone git@github.com:Riaan-Rossouw/DAIAT.git
 
 #### 2. Description of repositry files and folder
 
+```bash
 FOLDERS
 
 'archive': old files that are not used in current analysis
@@ -40,6 +41,7 @@ FOLDERS
 SCRIPTS
 
 To be completed.
+```
 
 #### 3. Data used and sources
 To be completed.
