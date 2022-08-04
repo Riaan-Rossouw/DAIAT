@@ -22,9 +22,9 @@ git clone git@github.com:Riaan-Rossouw/DAIAT.git
 ```
 
 #### 2. Data used and sources
-Note - To be completed.
+To be completed.
 
 #### 3. Data consolidation, clean-up and database construction 
-Note - To be completed.
+To be completed.
 
 (Last updated on 2022-08-04)
