@@ -27,10 +27,10 @@ git clone git@github.com:Riaan-Rossouw/DAIAT.git
 FOLDERS
 'Archive': Old files that are not used in current database construction
 'CleanData': All input data, saved in cleaned format
-'SeasonalityCharts': Montly trade figures, to identify potential seasonality in trade
-'Literature': Articles used to identify key variables
+'FinalDatabase': All results from scripts, intermittent and final database
+'Literature': Articles used to identify key variables of interest
 'RawData': all input data, saved in raw form
-'results': all results from scripts, intermittent and final data
+'SeasonalityCharts': Montly africulture trade figures, to identify potential seasonality in trade
 
 SCRIPTS
 To be completed.
