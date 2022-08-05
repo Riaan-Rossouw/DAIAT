@@ -6,6 +6,11 @@ Data: Area Harvested, Yield, Production Quantity (Period: 1961-2020)
 Production_Crops_E_All_Data.csv
 Units: Area Harvested: Hectares, Yield: Hectogramme/Hectare, Production Quantity: Tonnes 
 
+Bilateral Agriculture Product Trade Data (UN Comtrade)
+Source: https://comtrade.un.org/data
+Date Accessed: Aug 5, 2022
+File names: ...
+
 Capital Stock Data (Penn)
 Source: https://www.rug.nl/ggdc/productivity/pwt/?lang=en - Aug 4, 2022
 Data: 'cn' = capital stocks
