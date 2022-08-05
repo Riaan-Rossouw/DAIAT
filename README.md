@@ -24,12 +24,12 @@ git clone git@github.com:Riaan-Rossouw/DAIAT.git
 #### 2. Description of repositry files and folder
 
 #### Folders
-* 'Archive': Old files that are not used in current database construction
+* 'Archive': Old files/scripts that are not used in current database construction
 * 'CleanData': All input data, saved in cleaned format
 * 'FinalDatabase': All results from scripts, intermittent and final database
 * 'Literature': Articles used to identify key variables of interest
-* 'RawData': all input data, saved in raw form
-* 'SeasonalityCharts': Montly africulture trade figures, to identify potential seasonality in trade
+* 'RawData': all input data, saved in raw format
+* 'SeasonalityCharts': Monthly agricultural product trade figures, to identify potential seasonality in trade
 
 #### Scripts
 * To be completed.
