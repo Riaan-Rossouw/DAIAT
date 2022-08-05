@@ -36,7 +36,7 @@ Source: https://population.un.org/wpp/Download/Standard/Population/ - Aug 4, 202
 Data & units: 
 WPP2022_POP_F01_1_POPULATION_SINGLE_AGE_BOTH_SEXES.xlsx: Total population for all countries in all years
 
-Regional Trade Agreements 
+Regional Trade Agreements (WTO)
 Source: http://rtais.wto.org/UI/PublicMaintainRTAHome.aspx
 Data: Regional Trade Agreements of Goods and Services between all countries
 File: AgreementsList.xlsx
@@ -45,7 +45,7 @@ Trade Openness (World Bank)
 Source: http://data.worldbank.org/indicator
 Data: [(Export, Import) as percentages of GDP], GDP, Trade Openness (already calculated)
 
-World Trade Organization Accessions
+World Trade Organization Accessions (WTO)
 Source: https://www.wto.org/english/thewto_e/whatis_e/tif_e/org6_e.htm
 Data: World Trade Organization members and observers since July 29, 2016. If no membership date, country is an observer. 
 File: mem-obs-list.xlsx
