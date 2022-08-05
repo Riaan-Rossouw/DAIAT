@@ -41,6 +41,10 @@ Source: http://rtais.wto.org/UI/PublicMaintainRTAHome.aspx
 Data: Regional Trade Agreements of Goods and Services between all countries
 File: AgreementsList.xlsx
 
+Trade Openness (World Bank)
+Source: http://data.worldbank.org/indicator
+Data: [(Export, Import) as percentages of GDP], GDP, Trade Openness (already calculated)
+
 World Trade Organization Accessions
 Source: https://www.wto.org/english/thewto_e/whatis_e/tif_e/org6_e.htm
 Data: World Trade Organization members and observers since July 29, 2016. If no membership date, country is an observer. 
