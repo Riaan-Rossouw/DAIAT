@@ -4,7 +4,13 @@ Agricultural Variables (FAOSTAT)
 Source: http://www.fao.org/faostat/en/#data/QC
 Data: Area Harvested, Yield, Production Quantity (Period: 1961-2020)
 Production_Crops_E_All_Data.csv
-Units: Area Harvested: Hectares, Yield: Hectogramme/Hectare, Production Quantity: Tonnes 
+Units: Area Harvested: Hectares, Yield: Hectogramme/Hectare, Production Quantity: Tonnes
+
+Water use (AQUASTAT)
+Source: (1) https://www.fao.org/aquastat/en/databases/maindatabase/ (2) https://www.fao.org/aquastat/statistics/query/index.html
+Data: Water withdrawals - Withdrawals for agriculture which are total withdrawals for irrigation and livestock production (Period: 1958-2022)
+File name...
+Units: Annual quantity of self-supplied water withdrawn for irrigation, livestock and aquaculture purposes: 10^9 m3/year
 
 Bilateral Agriculture Product Trade Data (UN Comtrade)
 Source: https://comtrade.un.org/data
