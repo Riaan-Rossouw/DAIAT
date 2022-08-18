@@ -32,7 +32,7 @@ git clone git@github.com:Riaan-Rossouw/DAIAT.git
 * 'SeasonalityCharts': Monthly agricultural product trade figures, to identify potential seasonality in trade
 
 #### Scripts
-* '01_Collect_Data_vYYYY-MM-DD.r': downloads certain data sources via API's.
+* '00_Collect_Data_vYYYY-MM-DD.r': downloads certain data sources via API's.
 * '01_Clean_Data_vYYYY-MM-DD.r': collects data (from 'RawData'), cleans it (saved to 'CleanData'), then compiles the final database (saved to 'FinalDatabase').
 
 #### 3. Data used and sources
