@@ -41,4 +41,4 @@ Refer to 'RawData' folder for detail.
 #### 4. Data consolidation, clean-up and database construction 
 To be completed.
 
-(Last updated on 2022-08-18)
+(Last updated on 2022-08-24)
