@@ -32,6 +32,11 @@ Source: https://www.uni-frankfurt.de/45218031/Data_download_center_for_MIRCA2000
 Metadata: (1) https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2008GB003435 (2) http://www2.uni-frankfurt.de/45218023/MIRCA
 File names: ...
 
+International Agricultural Productivity (USDA)
+Source: https://www.ers.usda.gov/data-products/international-agricultural-productivity/
+Data: Index of agricultural TFP
+File name: AgTFPInternational2019.xlsx (Raw); AgTFPInternational2019_long.xlsx (Clean)
+
 Northern-Southern Hemisphere Countries (GeoDataSource)
 Source: https://www.geodatasource.com/download
 Data: List of countries by northern and southern hemisphere
