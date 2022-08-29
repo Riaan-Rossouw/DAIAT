@@ -51,7 +51,7 @@ Source: http://data.worldbank.org/indicator
 Data: [(Export, Import) as percentages of GDP], GDP, Trade Openness (already calculated)
 
 Water use (AQUASTAT)
-Source: (1) https://www.fao.org/aquastat/en/databases/maindatabase/ (2) https://www.fao.org/aquastat/statistics/query/index.html
+Source: (1) https://www.fao.org/aquastat/en/databases/maindatabase/ (2) https://www.fao.org/aquastat/statistics/query/index.html (3) https://www.fao.org/aquastat/en/data-analysis/irrig-water-use (4) https://www.fao.org/aquastat/en/databases/crop-calendar/
 Data: Water withdrawals - Withdrawals for agriculture which are total withdrawals for irrigation and livestock production (Period: 1958-2022)
 File name...
 Units: Annual quantity of self-supplied water withdrawn for irrigation, livestock and aquaculture purposes: 10^9 m3/year
