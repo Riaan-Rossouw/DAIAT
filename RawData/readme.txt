@@ -50,6 +50,10 @@ Trade Openness (World Bank)
 Source: http://data.worldbank.org/indicator
 Data: [(Export, Import) as percentages of GDP], GDP, Trade Openness (already calculated)
 
+Virtual Water Trade and Water Footprint of Agricultural Products (CWASI database: 1961-2016)
+Source: (1) https://zenodo.org/record/4606794 (2) https://www.watertofood.org/play-with-data/
+Data: ...
+
 Water use (AQUASTAT)
 Source: (1) https://www.fao.org/aquastat/en/databases/maindatabase/ (2) https://www.fao.org/aquastat/statistics/query/index.html (3) https://www.fao.org/aquastat/en/data-analysis/irrig-water-use (4) https://www.fao.org/aquastat/en/databases/crop-calendar/
 Data: Water withdrawals - Withdrawals for agriculture which are total withdrawals for irrigation and livestock production (Period: 1958-2022)
@@ -60,8 +64,5 @@ World Trade Organization Accessions (WTO)
 Source: https://www.wto.org/english/thewto_e/whatis_e/tif_e/org6_e.htm
 Data: World Trade Organization members and observers since July 29, 2016. If no membership date, country is an observer. 
 File: mem-obs-list.xlsx
-
-Virtual Water Trade
-Source: https://www.watertofood.org/play-with-data/
 
 ...
