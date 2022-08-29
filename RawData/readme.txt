@@ -54,7 +54,7 @@ Virtual Water Trade and Water Footprint of Agricultural Products (CWASI database
 Source: (1) https://zenodo.org/record/4606794 (2) https://www.watertofood.org/play-with-data/
 Data: ...
 
-Water use (AQUASTAT)
+Water Use (AQUASTAT)
 Source: (1) https://www.fao.org/aquastat/en/databases/maindatabase/ (2) https://www.fao.org/aquastat/statistics/query/index.html (3) https://www.fao.org/aquastat/en/data-analysis/irrig-water-use (4) https://www.fao.org/aquastat/en/databases/crop-calendar/
 Data: Water withdrawals - Withdrawals for agriculture which are total withdrawals for irrigation and livestock production (Period: 1958-2022)
 File name...
