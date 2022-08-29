@@ -9,4 +9,4 @@ Summary of evidence used to select variables on interest. Links to relevant site
     Source: https://eba.worldbank.org/en/methodology
 
 23. Virtual Water Trade (CWASI Database)
-    Source: https://www.watertofood.org/play-with-data/
+    Source: https://www.watertofood.org/play-with-data/ (Bulk download: https://zenodo.org/record/3987468)
