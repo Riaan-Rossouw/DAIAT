@@ -19,7 +19,7 @@ pwt100.csv: "Data" tab from pwt100.xlsx, above
 
 Climate Variables (World Bank)
 Source: http://data.worldbank.org/indicator
-Data: Latitude, Temperature (annual average), Precipitation (annual average)
+Data: Latitude, Temperature (monthly and annual average), Precipitation (monthly and annual average)
 
 Geographic Variables (CEPII)
 Source: http://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele_item.asp?id=6 - Aug 3, 2022
