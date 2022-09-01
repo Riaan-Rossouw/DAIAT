@@ -1,4 +1,4 @@
-Analysis Steps:
+ANALYSIS STEPS:
 
 1. Upload R libraries 
 2. Read list of country and commodity codes into R 
@@ -9,6 +9,6 @@ Analysis Steps:
 4. Collate and view final database as downloaded 
 5. Drop duplicate values in data extracted by selecting maximum value for each unique flow
 
-General:
+GENERAL:
 
 Script and input data provided and used to download monthly bilateral trade data from UN Comtrade API. 'Clean' code/script provided in primary directory in the '00_Collect_Data_v2022-09-02.R' script.
