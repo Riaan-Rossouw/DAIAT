@@ -1,1 +1,14 @@
-Script and input data to download monthly bilateral trade data from UN Comtrade API. 'Clean' code/script provided in primary directory in the '00_Collect_Data_v2022-09-02.R' script.
+Analysis Steps:
+
+1. Upload R libraries 
+2. Read list of country and commodity codes into R 
+3. Collect Data from UN Comtrade - code from UN Comtrade (using 'comtradr' package) 
+   - Run loops to download data, limits of 100 requests per hour, ps, r and p are limited to 5 codes each. 
+   - Only one of the above codes may use the special ALL value in a given API call. Classification codes (cc) are limited to 20 items. ALL is always a valid 
+     classification code (http://comtrade.un.org/data/doc/api/) 
+4. Collate and view final database as downloaded 
+5. Drop duplicate values in data extracted by selecting maximum value for each unique flow
+
+General:
+
+Script and input data provided and used to download monthly bilateral trade data from UN Comtrade API. 'Clean' code/script provided in primary directory in the '00_Collect_Data_v2022-09-02.R' script.
