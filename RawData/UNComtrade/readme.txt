@@ -11,6 +11,6 @@ DATA DOWNLOAD STEPS:
 
 GENERAL:
 
-Data link (data files exceed 24MB limit): https://www.dropbox.com/sh/cmctemngvo9gyfe/AADT5SgsN93hPVyKqf132TQla?dl=0
+Data link (data files exceed 25MB limit): https://www.dropbox.com/sh/cmctemngvo9gyfe/AADT5SgsN93hPVyKqf132TQla?dl=0
 
 Script and input data provided and used to download monthly bilateral trade data from UN Comtrade API. 'Clean' code/script provided in primary directory in the '00_Collect_Data_v2022-09-02.R' script.
