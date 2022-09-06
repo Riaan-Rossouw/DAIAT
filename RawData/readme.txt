@@ -44,8 +44,8 @@ Data: List of countries by northern and southern hemisphere
 
 Population Data (UNPD)
 Source: https://population.un.org/wpp/Download/Standard/Population/ - Aug 4, 2022
-Data & units: 
-WPP2022_POP_F01_1_POPULATION_SINGLE_AGE_BOTH_SEXES.xlsx: Total population for all countries in all years
+Data & units: 'Total Population' (thousands) and 'Population Density' (ratio) for all countries (1950-2100)
+File name: WPP2022_TotalPopulationBySex.zip
 
 Regional Trade Agreements (WTO)
 Source: http://rtais.wto.org/UI/PublicMaintainRTAHome.aspx
