@@ -9,6 +9,7 @@ Units: Area Harvested: Hectares, Yield: Hectogramme/Hectare, Production Quantity
 Bilateral Agriculture Monthly Product Trade Data (UN Comtrade)
 Source: https://comtrade.un.org/data
 Date Accessed: Aug 5, 2022
+Data: Data files exceed 25MB limit (access via Dropbox): https://www.dropbox.com/sh/cmctemngvo9gyfe/AADT5SgsN93hPVyKqf132TQla?dl=0
 File names: ...
 
 Capital Stock Data (Penn)
