@@ -2,15 +2,15 @@ DATA SOURCES:
 
 Agricultural Variables (FAOSTAT)
 Source: http://www.fao.org/faostat/en/#data/QC
-Data: Area Harvested, Yield, Production Quantity (Period: 1961-2020)
-Production_Crops_E_All_Data.csv
+Data: Area Harvested, Yield, Production Quantity (Period [annual]: 1961-2020)
+File names: FAO - Production Crops and livestock Products.7z (Production_Crops_Livestock_E_All_Data_(Normalized).csv & Production_Crops_Livestock_E_Flags.csv)
 Units: Area Harvested: Hectares, Yield: Hectogramme/Hectare, Production Quantity: Tonnes
 
 Bilateral Agriculture Monthly Product Trade Data (UN Comtrade)
 Source: https://comtrade.un.org/data
 Date Accessed: Aug 5, 2022
-Data: Data files exceed 25MB limit (access via Dropbox): https://www.dropbox.com/sh/cmctemngvo9gyfe/AADT5SgsN93hPVyKqf132TQla?dl=0
-File names: ...
+Data: Bilateral trade data for all countries (HS6-digit [HS17], Period [monthly]: 2017/01-2022/07)
+File names: Data files exceed 25MB limit (access via Dropbox): https://www.dropbox.com/sh/cmctemngvo9gyfe/AADT5SgsN93hPVyKqf132TQla?dl=0
 
 Capital Stock Data (Penn)
 Source: https://www.rug.nl/ggdc/productivity/pwt/?lang=en - Aug 4, 2022
