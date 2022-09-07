@@ -3,6 +3,9 @@ The Data and Artificial Intelligence for African Trade (DAIAT) Initiative [https
 
 This repository contains the working files and all codes used to generate the "Agriculture Growth Cycle and Trade" database, which forms part of Work Program 1 of the DAIAT Initiative.
 
+## Acknowledgements
+The funding support of the Irish Research Council (IRC) through its New Horizon’s Grant Program is gratefully acknowledged.
+
 ## Work program 1: Identification of export opportunities
 This work program is motivated by the need to expand African countries' exports at the extensive margin.
 
