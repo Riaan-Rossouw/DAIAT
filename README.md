@@ -1,4 +1,25 @@
-# DAIAT - Agriculture Growth Cycle and Trade Dataset
+
+<h1 align="center">DAIAT - Agriculture Growth Cycle and Trade Dataset</h1>
+
+<!-- HEADER -->
+
+<br />
+<p align="center">
+  <a href="#">
+    <img alt="Light" src="/Documents/ucc_logo_irish.svg" width="15%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="/Documents/IRC LOGO_RGB.jpg" width="35%">
+  </a>
+  <br />
+ <p align="center">
+    <a href="https://www.ucc.ie/en/daiat/"><strong>Read more about the DAIAT initiative »</strong></a>
+    <br />
+  </p>
+</p>
+
+<!-- CONTENT -->
+
+## About
 The Data and Artificial Intelligence for African Trade (DAIAT) Initiative [https://www.ucc.ie/en/daiat/] is a consortium of European and African-based scholars and practitioners who focus their research, teaching and policy making to develop and promote data-driven decision-making tools for the expansion of inclusive and sustainable trade between the continents.
 
 This repository contains the working files and all codes used to generate the "Agriculture Growth Cycle and Trade" database, which forms part of Work Program 1 of the DAIAT Initiative.
