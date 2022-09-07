@@ -1,5 +1,7 @@
 DATA SOURCES:
 
+All input data and sources (listed below), saved in raw format.
+
 Agricultural Variables (FAOSTAT)
 Source: http://www.fao.org/faostat/en/#data/QC
 Data: Area Harvested, Yield, Production Quantity (Period [annual]: 1961-2020)
