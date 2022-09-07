@@ -72,5 +72,3 @@ World Trade Organization Accessions (WTO)
 Source: https://www.wto.org/english/thewto_e/whatis_e/tif_e/org6_e.htm
 Data: World Trade Organization members and observers since July 29, 2016. If no membership date, country is an observer. 
 File: mem-obs-list.xlsx
-
-...
