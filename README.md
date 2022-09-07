@@ -34,7 +34,7 @@ git clone git@github.com:Riaan-Rossouw/DAIAT.git
 #### Scripts
 * '00_Collect_Data_vYYYY-MM-DD.r': downloads certain data sources via API's.
 * '01_Clean_Data_vYYYY-MM-DD.r': collects data (from 'RawData'), cleans it (saved to 'CleanData'), then compiles the final database (saved to 'FinalDatabase').
-* '02_Trade_Plots_vYYYY-MM-DD.r': loads trade data (from 'CleanData'), plots trends over time within each country/area individually (saved to 'SeasonalityFigures').
+* '02_Trade_Plots_vYYYY-MM-DD.r': loads monthly trade data (from 'CleanData'), plots trends over time within each country/area individually for each agricultural commodity (saved to 'SeasonalityFigures').
 
 #### 3. Data used and sources
 Refer to 'RawData' folder for detail.
