@@ -29,7 +29,7 @@ git clone git@github.com:Riaan-Rossouw/DAIAT.git
 * 'FinalDatabase': All results from scripts, intermittent and final database
 * 'Literature': Articles used to identify key variables of interest
 * 'RawData': all input data, saved in raw format
-* 'SeasonalityCharts': Monthly agricultural product trade figures, to identify potential seasonality in trade
+* 'SeasonalityPlots': Monthly agricultural commodity trade charts, to identify potential seasonality in trade data
 
 #### Scripts
 * '00_Collect_Data_vYYYY-MM-DD.r': downloads certain data sources via API's.
