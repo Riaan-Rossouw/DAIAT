@@ -1,2 +1,2 @@
 
-Supporting documents.
+Supporting documents and images/logos.
