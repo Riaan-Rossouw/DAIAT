@@ -10,3 +10,6 @@ Summary of evidence used to select variables on interest. Links to relevant site
 
 23. Virtual Water Trade (CWASI Database)
     Source: https://www.watertofood.org/play-with-data/ (Bulk download: https://zenodo.org/record/3987468)
+
+31. International Agricultural Productivity (USDA)
+    Source: https://www.ers.usda.gov/data-products/international-agricultural-productivity/
