@@ -1,0 +1,9 @@
+ISO,Country,Year,Irrigated_Crops,Area,1,2,3,4,5,6,7,8,9,10,11,12
+SLE,Sierra Leone,1992,Sugarcane ,0.5,50,50,50,50,50,50,50,50,50,50,50,50
+SLE,Sierra Leone,1992,Vegetables,0.5,50,50,50,50,0,0,0,0,0,0,0,50
+SLE,Sierra Leone,1992,AHIfull,1,0,0,0,0,0,0,0,0,0,0,0,0
+SLE,Sierra Leone,1992,AAIfull,1,100,100,100,100,50,50,50,50,50,50,50,100
+SLE,Sierra Leone,1992,Cropping_Intensity,100,100,100,100,100,100,100,100,100,100,100,100,100
+SLE,Sierra Leone,1992,AEIfull,1,1,1,1,1,1,1,1,1,1,1,1,1
+SLE,Sierra Leone,1992,Actually_Irrigated,100,100,100,100,100,100,100,100,100,100,100,100,100
+SLE,Sierra Leone,1992,AEItot,29.36,29.36,29.36,29.36,29.36,29.36,29.36,29.36,29.36,29.36,29.36,29.36,29.36
