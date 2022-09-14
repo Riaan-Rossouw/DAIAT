@@ -28,6 +28,10 @@ Climate Variables (World Bank)
 Source: http://data.worldbank.org/indicator
 Data: Latitude, Temperature (monthly and annual average), Precipitation (monthly and annual average)
 
+Country Codes Alpha-2 & Alpha-3 (IBAN)
+Source: https://www.iban.com/country-codes
+File name: Country_Codes_2022-09-14.csv
+
 Geographic Variables (CEPII)
 Source: http://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele_item.asp?id=6 - Aug 3, 2022
 Metadata: http://www.cepii.fr/PDF_PUB/wp/2011/wp2011-25.pdf
