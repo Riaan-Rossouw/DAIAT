@@ -1,0 +1,260 @@
+Country,Alpha-2 code,Alpha-3 code,Numeric
+Afghanistan,AF,AFG,C004
+Åland Islands,AX,ALA,C248
+Albania,AL,ALB,C008
+Algeria,DZ,DZA,C012
+American Samoa,AS,ASM,C016
+Andorra,AD,AND,C020
+Angola,AO,AGO,C024
+Anguilla,AI,AIA,C660
+Antarctica,AQ,ATA,C010
+Antigua and Barbuda,AG,ATG,C028
+Argentina,AR,ARG,C032
+Armenia,AM,ARM,C051
+Aruba,AW,ABW,C533
+Australia,AU,AUS,C036
+Austria,AT,AUT,C040
+Azerbaijan,AZ,AZE,C031
+Bahamas (the),BS,BHS,C044
+Bahrain,BH,BHR,C048
+Bangladesh,BD,BGD,C050
+Barbados,BB,BRB,C052
+Belarus,BY,BLR,C112
+Belgium,BE,BEL,C056
+Belize,BZ,BLZ,C084
+Benin,BJ,BEN,C204
+Bermuda,BM,BMU,C060
+Bhutan,BT,BTN,C064
+Bolivia (Plurinational State of),BO,BOL,C068
+"Bonaire, Sint Eustatius and Saba",BQ,BES,C535
+Bosnia and Herzegovina,BA,BIH,C070
+Botswana,BW,BWA,C072
+Bouvet Island,BV,BVT,C074
+Brazil,BR,BRA,C076
+British Indian Ocean Territory (the),IO,IOT,C086
+Brunei Darussalam,BN,BRN,C096
+Bulgaria,BG,BGR,C100
+Burkina Faso,BF,BFA,C854
+Burundi,BI,BDI,C108
+Cabo Verde,CV,CPV,C132
+Cambodia,KH,KHM,C116
+Cameroon,CM,CMR,C120
+Canada,CA,CAN,C124
+Cayman Islands (the),KY,CYM,C136
+Central African Republic (the),CF,CAF,C140
+Chad,TD,TCD,C148
+Chile,CL,CHL,C152
+China,CN,CHN,C156
+Christmas Island,CX,CXR,C162
+Cocos (Keeling) Islands (the),CC,CCK,C166
+Colombia,CO,COL,C170
+Comoros (the),KM,COM,C174
+Congo (the Democratic Republic of the),CD,COD,C180
+Congo (the),CG,COG,C178
+Cook Islands (the),CK,COK,C184
+Costa Rica,CR,CRI,C188
+Côte d'Ivoire,CI,CIV,C384
+Croatia,HR,HRV,C191
+Cuba,CU,CUB,C192
+Curaçao,CW,CUW,C531
+Cyprus,CY,CYP,C196
+Czechia,CZ,CZE,C203
+Czechoslovakia,CS,CSK,C200
+Denmark,DK,DNK,C208
+Djibouti,DJ,DJI,C262
+Dominica,DM,DMA,C212
+Dominican Republic (the),DO,DOM,C214
+Ecuador,EC,ECU,C218
+Egypt,EG,EGY,C818
+El Salvador,SV,SLV,C222
+Equatorial Guinea,GQ,GNQ,C226
+Eritrea,ER,ERI,C232
+Estonia,EE,EST,C233
+Eswatini,SZ,SWZ,C748
+Ethiopia,ET,ETH,C231
+"Europe EFTA, not elsewhere specified",N/A,N/A,C697
+Falkland Islands (the) [Malvinas],FK,FLK,C238
+Faroe Islands (the),FO,FRO,C234
+Fiji,FJ,FJI,C242
+Finland,FI,FIN,C246
+Former Democratic Republic of Germany,DD,DDR,C278
+Former USSR,SU,SUN,C810
+France,FR,FRA,C250
+French Guiana,GF,GUF,C254
+French Polynesia,PF,PYF,C258
+French Southern Territories (the),TF,ATF,C260
+Gabon,GA,GAB,C266
+Gambia (the),GM,GMB,C270
+Georgia,GE,GEO,C268
+Germany,DE,DEU,C276
+Ghana,GH,GHA,C288
+Gibraltar,GI,GIB,C292
+Greece,GR,GRC,C300
+Greenland,GL,GRL,C304
+Grenada,GD,GRD,C308
+Guadeloupe,GP,GLP,C312
+Guam,GU,GUM,C316
+Guatemala,GT,GTM,C320
+Guernsey,GG,GGY,C831
+Guinea,GN,GIN,C324
+Guinea-Bissau,GW,GNB,C624
+Guyana,GY,GUY,C328
+Haiti,HT,HTI,C332
+Heard Island and McDonald Islands,HM,HMD,C334
+Holy See (the),VA,VAT,C336
+Honduras,HN,HND,C340
+Hong Kong,HK,HKG,C344
+Hungary,HU,HUN,C348
+Iceland,IS,ISL,C352
+India,IN,IND,C356
+Indonesia,ID,IDN,C360
+Iran (Islamic Republic of),IR,IRN,C364
+Iraq,IQ,IRQ,C368
+Ireland,IE,IRL,C372
+Isle of Man,IM,IMN,C833
+Israel,IL,ISR,C376
+Italy,IT,ITA,C380
+Jamaica,JM,JAM,C388
+Japan,JP,JPN,C392
+Jersey,JE,JEY,C832
+Jordan,JO,JOR,C400
+Kazakhstan,KZ,KAZ,C398
+Kenya,KE,KEN,C404
+Kiribati,KI,KIR,C296
+Korea (the Democratic People's Republic of),KP,PRK,C408
+Korea (the Republic of),KR,KOR,C410
+Kuwait,KW,KWT,C414
+Kyrgyzstan,KG,KGZ,C417
+Lao People's Democratic Republic (the),LA,LAO,C418
+Latvia,LV,LVA,C428
+Lebanon,LB,LBN,C422
+Lesotho,LS,LSO,C426
+Liberia,LR,LBR,C430
+Libya,LY,LBY,C434
+Liechtenstein,LI,LIE,C438
+Lithuania,LT,LTU,C440
+Luxembourg,LU,LUX,C442
+Macao,MO,MAC,C446
+Madagascar,MG,MDG,C450
+Malawi,MW,MWI,C454
+Malaysia,MY,MYS,C458
+Maldives,MV,MDV,C462
+Mali,ML,MLI,C466
+Malta,MT,MLT,C470
+Marshall Islands (the),MH,MHL,C584
+Martinique,MQ,MTQ,C474
+Mauritania,MR,MRT,C478
+Mauritius,MU,MUS,C480
+Mayotte,YT,MYT,C175
+Mexico,MX,MEX,C484
+Micronesia (Federated States of),FM,FSM,C583
+Moldova (the Republic of),MD,MDA,C498
+Monaco,MC,MCO,C492
+Mongolia,MN,MNG,C496
+Montenegro,ME,MNE,C499
+Montserrat,MS,MSR,C500
+Morocco,MA,MAR,C504
+Mozambique,MZ,MOZ,C508
+Myanmar,MM,MMR,C104
+Namibia,NA,NAM,C516
+Nauru,NR,NRU,C520
+Nepal,NP,NPL,C524
+Netherlands (the),NL,NLD,C528
+Netherlands Antilles,AN,ANT,C530
+New Caledonia,NC,NCL,C540
+New Zealand,NZ,NZL,C554
+Nicaragua,NI,NIC,C558
+Niger (the),NE,NER,C562
+Nigeria,NG,NGA,C566
+Niue,NU,NIU,C570
+Norfolk Island,NF,NFK,C574
+Northern Mariana Islands (the),MP,MNP,C580
+Norway,NO,NOR,C578
+Not allocated,N/A,N/A,C899
+Oman,OM,OMN,C512
+"Other Asia, not elsewhere specified",N/A,N/A,C490
+Pakistan,PK,PAK,C586
+Palau,PW,PLW,C585
+"Palestine, State of",PS,PSE,C275
+Panama,PA,PAN,C591
+Papua New Guinea,PG,PNG,C598
+Paraguay,PY,PRY,C600
+Peru,PE,PER,C604
+Philippines (the),PH,PHL,C608
+Pitcairn,PN,PCN,C612
+Poland,PL,POL,C616
+Portugal,PT,PRT,C620
+Puerto Rico,PR,PRI,C630
+Qatar,QA,QAT,C634
+Republic of North Macedonia,MK,MKD,C807
+Réunion,RE,REU,C638
+Romania,RO,ROU,C642
+Russian Federation (the),RU,RUS,C643
+Rwanda,RW,RWA,C646
+Saint Barthélemy,BL,BLM,C652
+"Saint Helena, Ascension and Tristan da Cunha",SH,SHN,C654
+Saint Kitts and Nevis,KN,KNA,C659
+Saint Lucia,LC,LCA,C662
+Saint Martin (French part),MF,MAF,C663
+Saint Pierre and Miquelon,PM,SPM,C666
+Saint Vincent and the Grenadines,VC,VCT,C670
+Samoa,WS,WSM,C882
+San Marino,SM,SMR,C674
+Sao Tome and Principe,ST,STP,C678
+Saudi Arabia,SA,SAU,C682
+Senegal,SN,SEN,C686
+Serbia,RS,SRB,C688
+Serbia and Montenegro,CS,SCG,C891
+Seychelles,SC,SYC,C690
+Ship/Aircraft,N/A,N/A,C837
+Sierra Leone,SL,SLE,C694
+Singapore,SG,SGP,C702
+Sint Maarten (Dutch part),SX,SXM,C534
+Slovakia,SK,SVK,C703
+Slovenia,SI,SVN,C705
+Solomon Islands,SB,SLB,C090
+Somalia,SO,SOM,C706
+South Africa,ZA,ZAF,C710
+South Georgia and the South Sandwich Islands,GS,SGS,C239
+South Sudan,SS,SSD,C728
+Spain,ES,ESP,C724
+Sri Lanka,LK,LKA,C144
+Sudan (the),SD,SDN,C729
+Suriname,SR,SUR,C740
+Svalbard and Jan Mayen,SJ,SJM,C744
+Sweden,SE,SWE,C752
+Switzerland,CH,CHE,C756
+Syrian Arab Republic,SY,SYR,C760
+Taiwan (Province of China),TW,TWN,C158
+Tajikistan,TJ,TJK,C762
+"Tanzania, United Republic of",TZ,TZA,C834
+Thailand,TH,THA,C764
+Timor-Leste,TL,TLS,C626
+Togo,TG,TGO,C768
+Tokelau,TK,TKL,C772
+Tonga,TO,TON,C776
+Trinidad and Tobago,TT,TTO,C780
+Tunisia,TN,TUN,C788
+Turkey,TR,TUR,C792
+Turkmenistan,TM,TKM,C795
+Turks and Caicos Islands (the),TC,TCA,C796
+Tuvalu,TV,TUV,C798
+Uganda,UG,UGA,C800
+Ukraine,UA,UKR,C804
+United Arab Emirates (the),AE,ARE,C784
+United Kingdom of Great Britain and Northern Ireland (the),GB,GBR,C826
+United States Minor Outlying Islands (the),UM,UMI,C581
+United States of America (the),US,USA,C840
+Uruguay,UY,URY,C858
+US Miscellaneous Pacific Islands,N/A,N/A,C849
+Uzbekistan,UZ,UZB,C860
+Vanuatu,VU,VUT,C548
+Venezuela (Bolivarian Republic of),VE,VEN,C862
+Viet Nam,VN,VNM,C704
+Virgin Islands (British),VG,VGB,C092
+Virgin Islands (U.S.),VI,VIR,C850
+Wallis and Futuna,WF,WLF,C876
+Western Sahara,EH,ESH,C732
+Yemen,YE,YEM,C887
+Zambia,ZM,ZMB,C894
+Zimbabwe,ZW,ZWE,C716
