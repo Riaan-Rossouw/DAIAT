@@ -8,7 +8,7 @@ Data: Area Harvested, Yield, Production Quantity (Period [annual]: 1961-2020)
 File names: FAO - Production Crops and livestock Products.7z (Production_Crops_Livestock_E_All_Data_(Normalized).csv & Production_Crops_Livestock_E_Flags.csv)
 Units: Area Harvested: Hectares, Yield: Hectogramme/Hectare, Production Quantity: Tonnes
 
-Agricultrual Product Classifications and Concordance Tables (FAOSTAT to HS)
+Agricultural Product Classifications and Concordance Tables (FAOSTAT to HS)
 Source: http://datalab.review.fao.org/datalab/caliper/web/downloads
 File names: FPC&D_HS_mappings_2020-01-07.csv; FCL_HS_mappings_2020-01-07.csv; HS_FCL_mappings_2020-01-07.csv
 
