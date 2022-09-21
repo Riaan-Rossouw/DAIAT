@@ -13,7 +13,7 @@ Source: http://datalab.review.fao.org/datalab/caliper/web/downloads
 File names: FPC&D_HS_mappings_2020-01-07.csv; FCL_HS_mappings_2020-01-07.csv; HS_FCL_mappings_2020-01-07.csv
 
 Bilateral Agriculture Monthly Product Trade Data (UN Comtrade)
-Source: https://comtrade.un.org/data
+Source: https://comtrade.un.org/data OR https://comtradeplus.un.org
 Date Accessed: Aug 5, 2022
 Data: Bilateral trade data for all countries (HS6-digit [HS17], Period [monthly]: 2017/01-2022/07)
 File names: Data files exceed 25MB limit (access via Dropbox): https://www.dropbox.com/sh/cmctemngvo9gyfe/AADT5SgsN93hPVyKqf132TQla?dl=0
