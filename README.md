@@ -64,6 +64,6 @@ git clone git@github.com:Riaan-Rossouw/DAIAT.git
 Refer to 'RawData' folder for detail.
 
 #### 4. Data consolidation, clean-up and database construction 
-To be completed.
+Refer to the Final Project Report and Presentation.
 
 (Last updated on 2022-09-21)
