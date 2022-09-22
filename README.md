@@ -61,9 +61,9 @@ git clone git@github.com:Riaan-Rossouw/DAIAT.git
 * '02_Trade_Plots_vYYYY-MM-DD.r': loads monthly trade data (from 'CleanData'), plots trends over time within each country/area individually for each agricultural commodity (saved to 'SeasonalityFigures').
 
 #### 3. Data used and sources
-Refer to 'RawData' folder for detail.
+Refer to 'RawData' folder for detail. Also refer to the Final Project Report and Presentation for detail.
 
 #### 4. Data consolidation, clean-up and database construction 
 Refer to the Final Project Report and Presentation.
 
-(Last updated on 2022-09-21)
+(Last updated on 2022-09-22)
