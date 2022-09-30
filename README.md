@@ -37,7 +37,7 @@ For each of the five countries, the detailed opportunities to export to Ireland 
 The second aim of this work program would be to consider the availability of export data per region and firm - i.e., decentralized export data in Africa. Most governments (e.g., through the tax revenue departments) have access to this data but tend not to make this available. This may impose an information cost/gap on trade.
 
 ### How this repository works
-This section first addresses the data used and its sources, and second, provides the method and approach used to consolidate, clean and construct the final database.
+This section first addresses the data used and its sources, and second, provides the method and approach (i.e., scripts) used to consolidate, clean and construct the final database.
 
 #### 1. Clone this repository
 
@@ -48,22 +48,23 @@ git clone git@github.com:Riaan-Rossouw/DAIAT.git
 #### 2. Description of repositry files and folder
 
 #### Folders
-* 'Archive': Old files/scripts that are not used in current database construction
-* 'CleanData': All input data, saved in cleaned format
-* 'FinalDatabase': All results from scripts, intermittent and final database
-* 'Literature': Articles used to identify key variables of interest
+* 'Archive': Old files/scripts and data that are not used in the current database construction
+* 'CleanData': All selected input data, saved in a cleaned format
+* 'FinalDatabase': Final AGST database produced from the various scripts
+* 'Literature': Articles used to identify key variables of interest in the construction of the AGST database
 * 'RawData': all input data, saved in raw format
 * 'SeasonalityPlots': Monthly agricultural commodity trade charts, to identify potential seasonality in trade data
 
 #### Scripts
 * '00_Collect_Data_vYYYY-MM-DD.r': downloads certain data sources via API's.
-* '01_Clean_Data_vYYYY-MM-DD.r': collects data (from 'RawData'), cleans it (saved to 'CleanData'), then compiles the final database (saved to 'FinalDatabase').
+* '01_Clean_Data_vYYYY-MM-DD.r': loads data (from 'RawData'), cleans it (saved to 'CleanData'), then compiles the final database (saved to 'FinalDatabase').
 * '02_Trade_Plots_vYYYY-MM-DD.r': loads monthly trade data (from 'CleanData'), plots trends over time within each country/area individually for each agricultural commodity (saved to 'SeasonalityFigures').
+* Other scripts in development or not not used currently, are available in the 'Archive' folder.
 
 #### 3. Data used and sources
-Refer to 'RawData' folder for detail. Also refer to the Final Project Report and Presentation for detail.
+Refer to the 'RawData' folder, as well as the Final Project Report and Presentation for detail.
 
 #### 4. Data consolidation, clean-up and database construction 
 Refer to the Final Project Report and Presentation.
 
-(Last updated on 2022-09-22)
+(Last updated on 2022-09-30)
