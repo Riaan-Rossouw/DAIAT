@@ -45,7 +45,7 @@ This section first addresses the data used and its sources, and second, provides
 git clone git@github.com:Riaan-Rossouw/DAIAT.git
 ```
 
-#### 2. Description of repositry files and folder
+#### 2. Description of repository files and folders
 
 #### Folders
 * 'Archive': Old files/scripts and data that are not used in the current database construction
@@ -53,16 +53,16 @@ git clone git@github.com:Riaan-Rossouw/DAIAT.git
 * 'FinalDatabase': Final AGST database produced from the various scripts
 * 'Literature': Articles used to identify key variables of interest in the construction of the AGST database
 * 'RawData': all input data, saved in raw format
-* 'SeasonalityPlots': Monthly agricultural commodity trade charts, to identify potential seasonality in trade data
+* 'SeasonalityPlots': Monthly agricultural commodity trade charts to identify potential seasonality in trade data
 
 #### Scripts
-* '00_Collect_Data_vYYYY-MM-DD.r': downloads certain data sources via API's.
+* '00_Collect_Data_vYYYY-MM-DD.r': downloads specific data sources via API's.
 * '01_Clean_Data_vYYYY-MM-DD.r': loads data (from 'RawData'), cleans it (saved to 'CleanData'), then compiles the final database (saved to 'FinalDatabase').
 * '02_Trade_Plots_vYYYY-MM-DD.r': loads monthly trade data (from 'CleanData'), plots trends over time within each country/area individually for each agricultural commodity (saved to 'SeasonalityFigures').
-* Other scripts in development or not not used currently, are available in the 'Archive' folder.
+* Other scripts, either in development or currently not used, are available in the 'Archive' folder.
 
 #### 3. Data used and sources
-Refer to the 'RawData' folder, as well as the Final Project Report and Presentation for detail.
+Refer to the 'RawData' folder and the Final Project Report and Presentation for details.
 
 #### 4. Data consolidation, clean-up and database construction 
 Refer to the Final Project Report and Presentation.
