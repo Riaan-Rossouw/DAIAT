@@ -3,7 +3,7 @@ DATA DOWNLOAD STEPS:
 1. Upload R libraries.
 2. Read list of country and commodity codes into R.
 3. Collect monthly data from UN Comtrade - using 'comtradr' package.
-   - Run loops to download data, with limits of 100 requests per hour; ps, r and p are limited to 5 codes each.
+   - Run loops to download data, with limits of 100 requests per hour (pause process to not exceed set limits); ps, r and p are limited to 5 codes each.
    - Only one of the above codes may use the special ALL value in a given API call. Classification codes (cc) are limited to 20 items. ALL is always a valid 
      classification code (http://comtrade.un.org/data/doc/api/).
 4. Collate and view final database as downloaded.
